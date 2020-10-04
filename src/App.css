@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  font-size: 2rem;
+  color: green;
+}
+
+.input {
+  border: 2px solid green;
+  border-radius: 0.5em;
+  padding: 0.25rem;
+  width: 7.5em;
+}
+
+.currency {
+  border: 2px solid grey;
+  border-radius: 0.5em;
+  padding: 0.25rem;
+}
+
+select {
+  margin-left: 0.5rem;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: grey;
+}
