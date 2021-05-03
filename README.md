@@ -1,3 +1,6 @@
+ A Currency Converter program that allows users to look up the latest exchange rate of 170+ world currencies utilizing exchangeratesAPI.io
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
